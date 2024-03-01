@@ -4,7 +4,7 @@
 Hello there! 👋 I'm Vemund Halvorsen, a Tech Enthusiast and a professional .NET Developer with a passion for building scalable and efficient software solutions. When I'm not coding, you can find me pedaling through scenic routes, paddling in serene waters, running trails, or capturing the beauty of the moment through my lens. Welcome to my space!
 
 ### About Me
-- 🔭 I’m currently working in Knowit Amende
+- 🔭 I’m currently working in Bouvet
 - 📫 Im on twitter with user [@vemundh](https://twitter.com/vemundh)
 - 🏡 Living in Norway: Nestled outside Oslo, my home is where my heart is—surrounded by nature, it's the perfect starting point for my cycling, kayaking, and running escapades.
 - 💻 Tech Enthusiast & .NET Developer: I specialize in .NET technologies, crafting robust, scalable applications with a focus on clean code and innovative solutions.
